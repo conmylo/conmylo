@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession/Role] from [Your Location]. Welcome to my GitHub profile! 😊
+I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welcome to my GitHub profile! 😊
 
 ## About Me
 
 - 🌐 [Personal Website](https://www.yourwebsite.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- 🐦 [Twitter](https://twitter.com/yourtwitter)
-- 📷 [Instagram](https://www.instagram.com/yourinstagram)
+- 💼 [LinkedIn](https://www.linkedin.com/in/conmylo)
 
 ## 🔧 Technologies & Tools
 
@@ -33,7 +31,7 @@ I'm [Your Name], a passionate [Your Profession/Role] from [Your Location]. Welco
 
 ## 🚀 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=conmylo&count_private=true&show_icons=true&theme=radical)](https://github.com/conmylo)
 
 ## 🛠️ Skills
 
@@ -42,21 +40,17 @@ I'm [Your Name], a passionate [Your Profession/Role] from [Your Location]. Welco
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, VS Code
 
-## 📈 My GitHub Projects
+## 📈 My Favorite Projects
 
-- [Project 1](https://github.com/yourusername/project1): Short description
-- [Project 2](https://github.com/yourusername/project2): Short description
+- [Project 1](https://github.com/conmylo/databases-eeauth): Short description
+- [Project 2](https://github.com/conmylo/neuralnets-eeauth): Short description
 
 ## 🌱 I’m currently learning
 
-- Learning something cool...
-
-## 👯 I’m looking to collaborate on
-
-- Open source projects
+- Artificial Intelligence
 
 ## 📫 How to reach me
 
-Feel free to reach out through [email@example.com](mailto:email@example.com).
+Feel free to reach out through [conmylo@hotmail.com](mailto:conmylo@hotnmail.com).
 
 ⭐️ Thank you for visiting my profile! Let's connect and build amazing things together. ⭐️
