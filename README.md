@@ -34,7 +34,7 @@ I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welco
 
 ### 📫 How to reach me
 
-- 💬 Email(mailto:conmylo@hotnmail.com)
+- 💬 [Email](mailto:conmylo@hotnmail.com)
 - 🌐 [Personal Website](https://www.yourwebsite.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/conmylo)
 
