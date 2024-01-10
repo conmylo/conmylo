@@ -1,56 +1,46 @@
-### Hi there 👋, I'm Konstantinos
-
-<!--
-**conmylo/conmylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there! 👋
+## Hi there! 👋 
 
 I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welcome to my GitHub profile! 😊
 
-## About Me
+### About Me
 
-- 🌐 [Personal Website](https://www.yourwebsite.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/conmylo)
+- 🔭 Undergraduate student @ ece.auth
+- 💼 Software engineering intern @ YSOFT Informatics SA
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 [![Tech 1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)](https://www.example.com)
 [![Tech 2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)](https://www.example.com)
 
-## 🚀 GitHub Stats
+### 🚀 GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conmylo&layout=compact&theme=radical)](https://github.com/conmylo)
 
-## 🛠️ Skills
+### 🛠️ Skills
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Flask, React, Angular
+- **Languages:** Python, JavaScript, HTML, CSS, C++, Matlab, Java
+- **Frameworks:** Flask, Angular
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, VS Code
 
-## 📈 My Favorite Projects
+### 📈 My Favorite Projects
 
-- [Project 1](https://github.com/conmylo/databases-eeauth): Short description
-- [Project 2](https://github.com/conmylo/neuralnets-eeauth): Short description
+- [Database Implementation](https://github.com/conmylo/databases-eeauth): For this project I decided to create a complete database using MySQL for an online reservation information system.
+- [Neural Networks Algorithms](https://github.com/conmylo/neuralnets-eeauth): For this project I used libraries to implement some of the most common neural network algorithms and evaluate their time and accuracy levels.
 
-## 🌱 I’m currently learning
+### 🌱 I’m currently learning
 
-- Artificial Intelligence
+- how to make use of artificial intelligence algorithms in everyday problem solving.
 
-## 📫 How to reach me
+### 📫 How to reach me
 
-Feel free to reach out through [conmylo@hotmail.com](mailto:conmylo@hotnmail.com).
+- 💬 Email(mailto:conmylo@hotnmail.com)
+- 🌐 [Personal Website](https://www.yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/conmylo)
 
-⭐️ Thank you for visiting my profile! Let's connect and build amazing things together. ⭐️
+### ⚡ Other hobbies
+
+- Basketball enthusiast
+- Traveller
+
+⭐️ Thank you for visiting my profile! Let's connect and build amazing things together. 👯
