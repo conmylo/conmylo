@@ -1,4 +1,4 @@
-## Hi there! 👋 
+## Howdy peeps! 👋 
 
 I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welcome to my GitHub profile! 😊
 
@@ -19,7 +19,7 @@ I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welco
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, VS Code
 
-### 📈 My Favorite Projects
+### 📈 My Fav Projects
 
 - [Database Implementation](https://github.com/conmylo/databases-eeauth): For this project I decided to create a complete database using MySQL for an online reservation information system.
 - [Neural Networks Algorithms](https://github.com/conmylo/neuralnets-eeauth): For this project I used libraries to implement some of the most common neural network algorithms and evaluate their time and accuracy levels.
@@ -28,15 +28,15 @@ I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welco
 
 - how to make use of artificial intelligence algorithms in everyday problem solving.
 
-### 📫 How to reach me
+### 📫 Hit me up
 
-- 💬 [Email](mailto:conmylo@hotnmail.com)
+- 💬 Slide into my [email](mailto:conmylo@hotmail.com)
 <!-- - 🌐 [Personal Website](https://www.yourwebsite.com) -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/conmylo)
+- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/conmylo)
 
 ### ⚡ Other hobbies
 
 - Basketball enthusiast
 - Traveller
 
-⭐️ Thank you for visiting my profile! Let's connect and build amazing things together. 👯
+⭐️ Cheers for dropping by! Let's collab and cook something epic together. 👯
