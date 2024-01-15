@@ -24,6 +24,10 @@ I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welco
 - [Database Implementation](https://github.com/conmylo/databases-eeauth): For this project I decided to create a complete database using MySQL for an online reservation information system.
 - [Neural Networks Algorithms](https://github.com/conmylo/neuralnets-eeauth): For this project I used libraries to implement some of the most common neural network algorithms and evaluate their time and accuracy levels.
 
+### 🔍 Profile Views
+
+- ![](https://komarev.com/ghpvc/?username=conmylo&color=blueviolet&label=Views+Count&)
+
 ### 🌱 I’m currently learning
 
 - how to make use of artificial intelligence algorithms in everyday problem solving.
