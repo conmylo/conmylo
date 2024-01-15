@@ -26,7 +26,7 @@ I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welco
 
 ### 🔍 Profile Views
 
-- ![](https://komarev.com/ghpvc/?username=conmylo&color=blueviolet&label=Views+Count&abbreviated=true)
+- ![](https://komarev.com/ghpvc/?username=conmylo&color=blueviolet&label=Views+Count&abbreviated=true&base=1000)
 
 ### 🌱 I’m currently learning
 
