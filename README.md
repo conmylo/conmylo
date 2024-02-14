@@ -9,7 +9,7 @@ I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welco
 
 ### 🚀 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conmylo&layout=compact&theme=radical)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conmylo&layout=compact&theme=radical)](https://github.com/conmylo)
 
 ### 🛠️ Skills
 
