@@ -4,9 +4,8 @@ I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welco
 
 ### About Me
 
-- 🌱 International studies program student @ Sorbonne University
-- 🔭 Undergraduate student @ ece.auth
-- 💼 Software engineering intern @ YSOFT Informatics SA
+- 🌱 Undergraduate student @ ece.auth
+- 💼 Board Member @ YSOFT Informatics SA
 
 ### 🚀 GitHub Stats
 
