@@ -1,4 +1,4 @@
-## Howdy peeps! 👋 
+## What's up peeps! 👋 
 
 I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welcome to my GitHub profile! 😊
 
