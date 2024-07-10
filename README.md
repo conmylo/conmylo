@@ -5,7 +5,6 @@ I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welco
 ### About Me
 
 - 🌱 Undergraduate student @ ece.auth
-- 💼 Board Member @ YSOFT Informatics SA
 
 ### 🚀 GitHub Stats
 
@@ -27,9 +26,9 @@ I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welco
 
 - [![](https://visitcount.itsvg.in/api?id=conmylo&label=Views%20Count&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-### 🌱 I’m currently learning
+### 🌱 I’m currently working on
 
-- how to make use of artificial intelligence algorithms in everyday problem solving.
+- my thesis: developing a system that is trained on the user's interfaces with an interactive system and can recognize the user in order to achieve continuous authentication of the user's identity throughout the user-system interaction.
 
 ### 📫 Hit me up
 
@@ -42,4 +41,4 @@ I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welco
 - Basketball enthusiast
 - Traveller
 
-⭐️ Cheers for dropping by! Let's collab and cook something epic together. 👯
+🙏 Cheers for dropping by!
