@@ -1,10 +1,6 @@
 ## Hey! 👋 
 
-I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welcome to my GitHub profile! 😊
-
-### About Me
-
-- 🌱 Undergraduate student @ ece.auth
+I'm Konstantinos, an undergraduate student @ ece.auth from Thessaloniki, Greece. Welcome to my GitHub profile! 😊
 
 ### 🛠️ Skills
 
@@ -24,7 +20,7 @@ I'm Konstantinos, an aspiring software engineer from Thessaloniki, Greece. Welco
 
 ### 🌱 I’m currently working on
 
-- my thesis: developing a system that is trained on the user's interfaces with an interactive system and can recognize the user in order to achieve continuous authentication of the user's identity throughout the user-system interaction.
+- my thesis: developing a system for continuous and implicit authentication based on linguistic and behavioural features. 
 
 ### 📫 Hit me up
 
