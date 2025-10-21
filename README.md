@@ -1,6 +1,8 @@
 ## Hey! 👋 
 
-I'm Konstantinos, an undergraduate student @ ece.auth from Thessaloniki, Greece. Welcome to my GitHub profile! 😊
+I'm Konstantinos. Welcome to my GitHub profile! 😊
+
+I am currently pursuing an MSc in Law and Informatics @ University of Macedonia, Thessaloniki, Greece.
 
 ### 🛠️ Skills
 
@@ -18,9 +20,9 @@ I'm Konstantinos, an undergraduate student @ ece.auth from Thessaloniki, Greece.
 
 - [![](https://visitcount.itsvg.in/api?id=conmylo&label=Views%20Count&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-### 🌱 I’m currently working on
+<!--### 🌱 I’m currently working on
 
-- my thesis: developing a system for continuous and implicit authentication based on linguistic and behavioural features. 
+- my thesis: developing a system for continuous and implicit authentication based on linguistic and behavioural features. -->
 
 ### 📫 Hit me up
 
